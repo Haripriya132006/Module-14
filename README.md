@@ -76,7 +76,7 @@ Shows the state of the heap after deletion and re-heapification.
 #### Result:
 Successfully maintained the max-heap property after deletions.
 
-###4. Round Robin Scheduling Algorithm
+### 4. Round Robin Scheduling Algorithm
 Aim:
 To calculate the Waiting Time (WT) and Turnaround Time (TAT) for each process using the Round Robin scheduling algorithm.
 
