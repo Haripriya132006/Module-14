@@ -25,6 +25,7 @@ Display updated deque after insertion.
 End
 
 ## Program:
+```
 /*#include <stdio.h>
 
 #define MAX 10
@@ -68,7 +69,7 @@ void addRear(int *arr, int item, int *pfront, int *prear) {
     }
   
 }
-
+```
 
 
 ## Output:
